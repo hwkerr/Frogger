@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=frog\ frogGuts
+comment0.target=Frog(java.awt.Image,\ java.awt.Image)
+comment1.params=gr
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=
+comment2.target=void\ moveLeft()
+comment3.params=
+comment3.target=void\ moveRight()
+comment4.params=
+comment4.target=void\ moveUp()
+comment5.params=
+comment5.target=void\ moveDown()
+comment6.params=
+comment6.target=java.awt.Rectangle\ getRect()
+comment7.params=
+comment7.target=java.awt.Image\ getImage()
+comment8.params=
+comment8.target=boolean\ getDead()
+comment9.params=
+comment9.target=boolean\ getWin()
+numComments=10
